@@ -1,8 +1,8 @@
 # Mac
 
-- Hyphens
+- Hyphens  
 `-`
-- En dash
+- En dash  
 Alt + -  
-- Em dash
+- Em dash  
 Shift + Alt + -
