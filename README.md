@@ -1,5 +1,7 @@
 # Mac
 
 
-en dash : Alt + -
-emm dash: Shift + Alt + -
+- en dash
+Alt + -  
+- emm dash
+Shift + Alt + -
